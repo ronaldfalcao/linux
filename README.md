@@ -39,7 +39,7 @@ chown -R usuário.grupo
 LOG: logwatch
 Memória: free
 CPU info: cat /proc/cpuinfo 
-
+Informações do sistema: screenfetch
 
 
 ## MySQL
