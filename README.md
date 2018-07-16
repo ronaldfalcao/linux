@@ -36,10 +36,10 @@ http://www.vivaolinux.com.br/artigo/Entendendo-as-permissoes-no-Linux
 chown -R usuário.grupo
 
 ### Verificações de sistema
-LOG: logwatch
-Memória: free
-CPU info: cat /proc/cpuinfo 
-Informações do sistema: screenfetch
+* LOG: logwatch
+* Memória: free
+* CPU info: cat /proc/cpuinfo 
+* Informações do sistema: screenfetch
 
 
 ## MySQL
