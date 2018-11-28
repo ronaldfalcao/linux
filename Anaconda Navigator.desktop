@@ -1,0 +1,13 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=True
+Icon[en_GB]=/home/ronald/anaconda3/anaconda-icon.png
+Name[en_GB]=Anaconda Navigator
+Exec=/home/ronald/anaconda3/bin/anaconda-navigator
+Comment[en_GB]=Anaconda Navigator
+Name=Anaconda
+Comment=Anaconda Navigator
+Icon=/home/ronald/anaconda3/anaconda-icon.png
